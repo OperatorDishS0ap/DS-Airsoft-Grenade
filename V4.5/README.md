@@ -1,4 +1,4 @@
-PLEASE READ THE PDF INSTRUCTIONS THOROUGHLY AND WATCH THE VIDEO LINKED BELOW BEFORE ASKING QUESTIONS
+PLEASE READ THE INSTRUCTIONS BELOW THOROUGHLY AND WATCH THE VIDEO LINKED BELOW BEFORE ASKING QUESTIONS
 
 Assembly video can be found here: 
 
@@ -8,8 +8,18 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 
 These are strictly for training and airsoft purposes. I do not assume responsibility for your misuse or injury.
 
+Navigation:
 
-Impact Fuse:
+| File Outline |
+| Print Settings |
+| Printed Parts |
+| Impact Fuse BOM |
+| Timed Fuse BOM |
+| Impact Fuse Assembly |
+| Timed Fuse Assembly |
+| Body Assembly and Function |
+
+Printed Parts for Impact Fuse:
 
 | Part | QTY |
 | --- | --- |

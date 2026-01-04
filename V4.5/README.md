@@ -144,6 +144,9 @@ The secondary spring is to add spring strength for the primer and 8-cap and is n
 Springs will lose their strength over time and will need to be replaced. Avoid leaving the fuses cocked over long periods of time, this will rapidly decrease their lifespan.
 Battery compartment dimensions are below in millimeters. You will have to explore options for batteries since listings change per country. Verify that it has a JST PH 2.0mm connector or crimp your own.
 
+![Top Battery Space](Images/battery_top.png)
+![Side Battery Space](Images/battery_side.png)
+
 
 # Impact Fuse Assembly:
 

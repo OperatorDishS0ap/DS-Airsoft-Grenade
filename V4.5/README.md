@@ -62,10 +62,36 @@ The tables below outline the printed parts necissary for each core component. Yo
 ## Printed Parts for Impact Fuse:
 | Part | QTY |
 | --- | --- |
-| [Fuse](ImpactFuse/fuseV4.5.STL) | 1 |
+| [Fuse](ImpactFuse/FuseV4.5.STL) | 1 |
 | [Bolt Guide](ImpactFuse/BoltGuide.STL) | 1 |
-| [Spring Plate](springplateV4.5.STL) | 1 |
+| [Spring Plate](ImpactFuse/SpringPlate.STL) | 1 |
 | [Spoon](ImpactFuse/Spoons) | 1 |
+
+## Printed Parts for Timed Fuse:
+| Part | QTY |
+| --- | --- |
+| [Fuse](TimedFuse/PCBFuseV4.5.STL) | 1 |
+| [Bolt Guide](TimedFuse/BoltGuide.STL) | 1 |
+| [Spring Plate](TimedFuse/SpringPlate.STL) | 1 |
+| [Cam](TimedFuse/Cam.STL) | 1 |
+| [Cap](TimedFuse/Cap.STL) | 1 |
+
+## Printed Parts for Primer Body:
+| Part | QTY |
+| --- | --- |
+| [Body](PrimerBody) | 1 |
+
+## Printed Parts for Snap Body
+| Part | QTY |
+| --- | --- |
+| [Top](SnapBody/Top) | 1 |
+| [Bottom](SnapBody/Bottom) | 1 |
+
+## Printed Parts for 8-Cap Body
+| Part | QTY |
+| --- | --- |
+| [Body](8CapBody) | 1 |
+| [Retainer](8CapBody/Retainer.STL) | 1 |
 
 
 # Impact Fuse Bill of Materials:

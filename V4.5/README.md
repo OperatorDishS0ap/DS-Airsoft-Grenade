@@ -9,7 +9,7 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 These are strictly for training and airsoft purposes. I do not assume responsibility for your misuse or injury.
 
 | Navigation |
-| -------------------------- |
+| :------------------------: |
 | File Outline |
 | Print Settings |
 | Printed Parts |

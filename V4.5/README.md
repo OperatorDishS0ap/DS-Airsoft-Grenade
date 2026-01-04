@@ -36,6 +36,18 @@ It is critical that your printer and filament are tuned correctly for good resul
 ## Slicer Settings:
     - 0.20mm layer height or smaller for the bodies and fuses
     - 0.16mm layer height or smaller for the cam, bolt guide, and spring plate
+    - Smaller layers may yield more accurate dimensions
+    - 2mm Wall, Top, and Bottom Thickness (5 walls for 0.4mm nozzle)
+    - 35% Gyroid or Cubic Infill
+    - or the TPU spoons 2mm wall, top and bottom layers with 100% infill. The wall thickness is important for the layer orientation.
+
+## Material:
+    - Use PLA+ For all components excluding the spoons
+    - For the spoons use 95A TPU. It is critical that you use this variant of TPU. Other 	durometers will yield varying results. It is highly recommended that you use TPU 	spoons. They will yield drastically better performance and impact strength.
+    - The bottoms of the snap bodies may be printed from TPU.
+    - **DO NOT** use ABS, ASA, or PETG. These materials exhibit weaker layer adhesion and will break easily. Carbon Fiber or Glass Fiber composite materials will exhibit weaker layer adhesion as well and are not recommended for the primary body and fuse components
+    - Better materials will be discussed at the end of the document; however it is recommended that you use PLA and standard TPU 95A.
+
 
 
 # Printed Parts:

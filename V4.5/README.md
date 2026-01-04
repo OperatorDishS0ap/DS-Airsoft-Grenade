@@ -95,7 +95,7 @@ The tables below outline the printed parts necissary for each core component. Yo
 
 
 # Impact Fuse Bill of Materials:
-Please **VERIFY** that you are ordering the same component listed below. The links do not direct you to the exact size/specification you will need.
+## Please **VERIFY** that you are ordering the same component listed below. The links do not direct you to the exact size/specification you will need.
 
 | Item | Quantity | Amazon | ALiExpress | Notes |
 | ---- | -------- | ------ | ----------- | ------ |
@@ -115,7 +115,7 @@ The secondary spring is to add spring strength for the primer and 8-cap and is n
 Springs will lose their strength over time and will need to be replaced. Avoid leaving the fuses cocked over long periods of time, this will rapidly decrease their lifespan.
 
 # Timed Fuse Bill of Materials:
-Please **VERIFY** that you are ordering the same component listed below. The links do not direct you to the exact size/specification you will need.
+## Please **VERIFY** that you are ordering the same component listed below. The links do not direct you to the exact size/specification you will need.
 
 | Item | Quantity | Amazon | ALiExpress | Notes |
 | ---- | -------- | ------ | ----------- | ------ |

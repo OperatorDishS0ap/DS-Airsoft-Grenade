@@ -267,3 +267,37 @@ The bottom can then be screwed on to secure the snaps from falling out
 
 
 # Additional Material Info:
+Begin testing with PLA and TPU 95A before experimenting with alternative materials. When changing materials, modify only one variable at a time to accurately identify the source of any issues.  
+
+## Fiber-Reinforced Materials (Not Recomended)
+Avoid fiber-reinforced filaments such as carbon fiber and glass fiber blends. While these materials increase rigidity, they also make parts significantly more brittle. Under impact, this high rigidity can cause parts to shatter rather than absorb energy. Additionally, fiber additives reduce layer adhesion, which is critical to the safe and reliable operation of these devices.  
+
+### Exception:
+The timer cam is the only component where increased rigidity is beneficial, as it helps prevent the motor shaft hole from rounding out. For this specific part only, a more rigid or fiber-reinforced material may be used.  
+
+## Nylon (Non-Fiber Reinforced)
+Non-fiber-reinforced nylon is a significantly better alternative to PLA. Use only raw nylon formulations, such as [Overture Easy Nylon]( https://www.amazon.com/OVERTURE-Filament-Consumables-Polyamide-Dimensional/dp/B087R3M9Z2/ref=sr_1_1_pp?sr=8-1), which offer superior impact absorption and stronger layer adhesion. For optimal performance, annealing printed nylon parts is strongly recommended.  
+
+## TPU 72D or Harder
+Through testing, [CC3D 72D TPU](https://www.amazon.com/CC3D-Hardness-Transparent-Toughness-Comparable/dp/B0CFY1S38G/ref=sr_1_4?sr=8-4) has proven to be an excellent material choice. It offers an exceptional balance of rigidity, impact absorption, and layer adhesion. When printed correctly, parts made from this material are extremely durable.  
+
+### Recomended Uses:
+- Fuses
+- Bodies
+- Spoons
+
+This material can produce nearly unbreakable components. However, it does have notable drawbacks:
+- It is extremely difficult to print
+- It slightly reduces impact fuse sensitivity. This is generally not an issue when the device is used against hard surfaces (e.g., pavement)
+
+### Recomended Slicer Setting for CC3D 72D TPU
+To achieve reliable results, use the following settings:
+- Dry the filament thoroughly<br>Like nylon and TPU, this material absorbs moisture aggressively.
+- Print slowly
+Use an enclosed printer<br>Heating is not required, but protection from drafts is essential.
+- Outer wall speed: ≤ 40 mm/s
+- Inner wall speed: ≤ 60 mm/s
+- Avoid crossing walls/perimeters
+- Seam position: Nearest
+- Wall, top, and bottom thickness: 2 mm
+- Infill: ≥ 50% for primer bodies

@@ -1,4 +1,4 @@
-# Depricated: Please View the Current Release Indicated [Here](../../README.md)
+# Depricated: Please View the Current Release Indicated [Here](../../)
 
 V4 [Video](https://youtu.be/80pCEygZt8I)
 

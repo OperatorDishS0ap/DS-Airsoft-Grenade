@@ -20,7 +20,7 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 
 
 # File Outline:
-Files are organized into assigned folders and named with association to each component
+Files are organized into assigned folders and named with association to each component  
     - Numbers indicate the diamter of the body
     - Files ending with a **P** are primer bodies
     - Files ending with an **8** are 8-shot cap bodies

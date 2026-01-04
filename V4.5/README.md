@@ -204,7 +204,7 @@ Throw the device underhand. If thrown overhand, hold it in the position shown be
 1. To start for the primer version only, grind the end of the fuse screw (m4x40mm) to a bevel as shown in the image below. Do not sharpen the tip this will puncture the primer. A point around 3mm in diameter is ideal.  
 ![Beveled Bolt](Images/bolt.JPEG)
 
-2.	Press the bolt guide onto the M4x40mm bolt. This will likely take some force. A tool is included to help press the guide on. It is recommended to also use glue to ensure that it will not separate under prolonged use. Verify that the guide is also sitting relatively straight on the bolt. The fitment of the guide and bolt in the fuse is not critical to the reliability of the grenade like V3; however, it will perform best with a good fitment.  
+2.	Press the bolt guide onto the M4x40mm bolt. This will likely take some force. A [tool](tool.STL) is included to help press the guide on. It is recommended to also use glue to ensure that it will not separate under prolonged use. Verify that the guide is also sitting relatively straight on the bolt. The fitment of the guide and bolt in the fuse is not critical to the reliability of the grenade like V3; however, it will perform best with a good fitment.  
 ![bolt guide](Images/boltguide.png)
 ![bolt guide intersected](Images/boltguide_intersect.png)
 

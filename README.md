@@ -1,7 +1,5 @@
 # DS-Airsoft-Grenade
-This is a timed or impact-activated airsoft grenade that uses a .209 Primer, 8 shot caps, or adult/thunder/super Snaps. These have easily lasted up to 20+ throws each. Various body designs are available in the files.
-
-This is a timed or impact-activated airsoft grenade that uses a .209 Primer, 8 shot caps, or adult/thunder/super Snaps. These have easily lasted up to 20+ throws each. Various body designs are available in the files. If you would like a specific body design other than those available, please message me. If you have any design recommendations or improvements, I would love to hear your feedback.
+This is a timed or impact-activated airsoft grenade that uses a .209 Primer, 8-Shot caps, or adult/thunder/super Snaps. These have easily lasted up to 20+ throws each. Various body designs are available in the files.
 
 THERE MAY BE INCONSISTENCIES BETWEEN YOUTUBE VIDEOS AND THE CURRENT DESIGN/FUNCTION. THE MOST UP-TO-DATE INSTRUCTIONS AND VIDEOS WILL BE INCLUDED
 

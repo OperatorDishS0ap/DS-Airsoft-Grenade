@@ -45,7 +45,7 @@ It is critical that your printer and filament are tuned correctly for good resul
     - Use PLA+ For all components excluding the spoons
     - For the spoons use 95A TPU. It is critical that you use this variant of TPU. Other 	durometers will yield varying results. It is highly recommended that you use TPU 	spoons. They will yield drastically better performance and impact strength.
     - The bottoms of the snap bodies may be printed from TPU.
-    - **DO NOT** use ABS, ASA, or PETG. These materials exhibit weaker layer adhesion and will break easily. Carbon Fiber or Glass Fiber composite materials will exhibit weaker layer adhesion as well and are not recommended for the primary body and fuse components
+    - __DO NOT__ use ABS, ASA, or PETG. These materials exhibit weaker layer adhesion and will break easily. Carbon Fiber or Glass Fiber composite materials will exhibit weaker layer adhesion as well and are not recommended for the primary body and fuse components
     - Better materials will be discussed at the end of the document; however it is recommended that you use PLA and standard TPU 95A.
 
 

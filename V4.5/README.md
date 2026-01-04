@@ -62,7 +62,7 @@ The tables below outline the printed parts necissary for each core component. Yo
 ## Printed Parts for Impact Fuse:
 | Part | QTY |
 | --- | --- |
-| Fuse | 1 |
+| [Fuse](ImpactFuse/fuseV4.5.STL) | 1 |
 | Bolt Guide | 1 |
 | Spring Plate | 1 |
 | Spoon | 1 |

@@ -63,9 +63,9 @@ The tables below outline the printed parts necissary for each core component. Yo
 | Part | QTY |
 | --- | --- |
 | [Fuse](ImpactFuse/fuseV4.5.STL) | 1 |
-| Bolt Guide | 1 |
-| Spring Plate | 1 |
-| Spoon | 1 |
+| [Bolt Guide](ImpactFuse/BoltGuide.STL) | 1 |
+| [Spring Plate](springplateV4.5.STL) | 1 |
+| [Spoon] | 1 |
 
 
 # Impact Fuse Bill of Materials:

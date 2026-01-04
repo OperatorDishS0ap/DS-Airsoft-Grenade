@@ -8,7 +8,7 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 
 | Navigation |
 | :------------------------: |
-| File Outline |
+| [File Outline](#file-outline) |
 | Print Settings |
 | Printed Parts |
 | Impact Fuse BOM |

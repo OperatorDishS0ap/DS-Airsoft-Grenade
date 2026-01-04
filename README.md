@@ -11,7 +11,7 @@ Impact [Demo](https://youtube.com/shorts/6eM99irWegU?feature=share)
 
 Timed Version [Demo](https://youtube.com/shorts/Hy5njhvKSrs?si=KscytKjcjW3jRwIt)
 
-![Demo](Images/DSDemo.mp4)
+![Demo](Images/DSDemo.gif)
 
 V3 [Video](https://youtu.be/1QZiijmwaFE?si=J8ztw9y8YyzhfrAc)
 

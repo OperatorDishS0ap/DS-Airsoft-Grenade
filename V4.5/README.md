@@ -1,4 +1,4 @@
-#PLEASE READ THE INSTRUCTIONS BELOW THOROUGHLY AND WATCH THE VIDEO LINKED BELOW BEFORE ASKING QUESTIONS
+# PLEASE READ THE INSTRUCTIONS BELOW THOROUGHLY AND WATCH THE VIDEO LINKED BELOW BEFORE ASKING QUESTIONS
 
 Assembly video can be found here: 
 
@@ -16,11 +16,39 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 | Impact Fuse Assembly |
 | Timed Fuse Assembly |
 | Body Assembly and Function |
+| Additional Material Info |
 
-Printed Parts for Impact Fuse:
+
+## File Outline:
+
+
+## Print Settings:
+
+
+## Printed Parts:
+
+### Printed Parts for Impact Fuse:
 
 | Part | QTY |
 | --- | --- |
 | Fuse | 1 |
 
+
+## Impact Fuse Bill of Materials:
+
+
+## Timed Fuse Bill of Materials:
+
+
+## Impact Fuse Assembly:
+
+
+## Timed Fuse Assembly:
+
 ![Timer Fuse Function](images/gif.gif)
+
+
+## Body Assembly and Function:
+
+
+## Additional Material Info:

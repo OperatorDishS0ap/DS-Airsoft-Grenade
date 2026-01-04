@@ -45,10 +45,10 @@ It is critical that your printer and filament are tuned correctly for good resul
 
 ## Material:
 - Use PLA+ For all components excluding the spoons
-- For the spoons use 95A TPU. It is critical that you use this variant of TPU. Other durometers will yield varying results. It is highly recommended that you use TPU spoons. They will yield drastically better performance and impact strength.
-- The bottoms of the snap bodies may be printed from TPU.
-- **DO NOT** use ABS, ASA, or PETG. These materials exhibit weaker layer adhesion and will break easily. Carbon Fiber or Glass Fiber composite materials will exhibit weaker layer adhesion as well and are not recommended for the primary body and fuse components
-- Better materials will be discussed at the end of the document; however it is recommended that you use PLA and standard TPU 95A to establish a baseline.
+- For the spoons use 95A TPU. It is critical that you use this variant of TPU. Other durometers will yield varying results. It is highly recommended that you use TPU spoons. They will yield drastically better performance and impact strength
+- The bottoms of the snap bodies may be printed from TPU
+- **DO NOT** use ABS, ASA, or PETG. These materials exhibit weaker layer adhesion and will break easily<br>**DO NOT** use Carbon Fiber or Glass Fiber composite materials for the reasons discussed at the end of the document
+- Better materials will be discussed at the end of the document, however it is recommended that you use PLA and TPU 95A to establish a functional baseline
 
 ## Print Orientation:
 - For both the Impact and Timed Fuse place the bottom on the build plate. Support will not be required, they are built in.

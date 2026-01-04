@@ -9,8 +9,10 @@ For further questions and resources join the [Discord](https://discord.gg/FcNPHc
 These are strictly for training and airsoft purposes. I do not assume responsibility for your misuse or injury.
 
 
-| :Impact Fuse: |
-| --- | --- |
+Impact Fuse:
+
 | Part | QTY |
+| --- | --- |
+| Fuse | 1 |
 
 ![](https://github.com/OperatorDishS0ap/DS-Airsoft-Grenade/blob/main/V4.5/images/gif.gif)

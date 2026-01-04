@@ -205,7 +205,47 @@ Throw the device underhand. If thrown overhand, hold it in the position shown be
 ![Top PCB](Images/top_pcb.JPEG)   
 Trim the Excess Pin Lenght from the Headers and Switch to avoid touching the cap
 
-![Timer Fuse Function](Images/gif.gif)
+6.	Plug the Batteries in the order labeled. **VERIFY THE POLARITY IS CORRECT.** It is critical that you do this correctly or risk harming the board. When disassembling, unplug the batteries in the reverse order (#2 first then #1). AGAIN, **DON’T PRESS THE BUTTON.**
+![Battery Install Order](Images/battery_install.png)
+
+7.	Add the screw to the cam. Thread the set screw all the way through to remove additional material. Leave screw out until later. Verify the cam fits the motor shaft.  
+![Cam](Images/cam.JPEG)
+
+8.	Insert the PCB assembly and cam into the fuse. You can use a pin to hold the cam in the center like imaged below. Ensure the notch on the cam is facing down. Rotate the cam to match the motor shaft to insert fully. Ensure the battery wires are orientated as shown in the image and the wires are not being pinched. There is a small cutout for the wires under the switch.
+![Cam Install](Images/cam_install.JPEG)  
+Note the Pin inserted from the bottom holding the cam in place and the cam notch is facing down
+
+![Wire Channel Left](Images/wire_path.JPEG)  
+Make sure the wires for the battery on the left are exiting through the cutout to prevent them from getting pinched by the switch  
+
+![Right BAttery](Images/right_battery.JPEG)  
+Right Battery  
+
+![Left Battery](Images/left_battery.JPEG)  
+Left Battery  
+
+9.	Now press the button to reset the battery protection circuit. The motor should now turn, and you can stop the motor by inserting the pin from the front. The motor will now turn continuously if there is nothing pressing onto the switch. If the board does not power on ensure that your batteries are charged and they are installed in the correct order/polarity. Fasten the cap once you confirm the motor is turning. Stop the motor when the cam is located with the set screw facing out. Install the set screw. Using superglue on the set screw is encouraged.
+![Fuse Cap](Images/cap.JPEG)
+
+10.	Finally, to use the timed fuse stop the cam when the notch lines up with the arrow on the fuse body. Push the main bolt up and to the rear like you would the impact fuse. While holding it up and to the rear, advance the cam a small amount to catch or limit the bolt from falling. Now when the pin is pulled the cam will rotate and the bolt will eventually fall. The timing can easily be reduced by advancing the cam further when setting. Re-insert the pin to stop the mechanism upon retrieval.
+![Alighn the Cam Notch](Images/cam_alignment.JPEG)  
+Align the Cam Notch with the Arrow to ALlow the Bolt to Move Up
+
+![Timer Set](Images/timer_set.JPEG)  
+Note the Bolt is all the way up and the cam has been advanced preventing it from falling  
+
+![Timer Fuse Function](Images/gif.gif)  
+
+11.	To charge the fuse use a 2s lipo charger and the charging port on the side of the fuse. Below is a picture of a charging cable with labeled pins. Ensure that your wires are correct. There is a pinout on the PCB for further confirmation. If your charger requires you to plug in the main connector in addition to the balance lead, add two additional wires and a connector of your choice (Deans, xt60, banana, etc.) like shown in green.
+![Charge Cable](Images/charge_cable.JPEG)
+
+### Notes:
+- Do not insert the pin in the back, it will break the switch. Insert only from the front.
+-	The fuse will continuously spin until the switch is depressed with the pin.
+-	I measured over 1h 30min runtime. This is far more than I’ve ever needed and will allow you many uses given you retrieve it after throwing it in a reasonable time.
+-	In case the batteries run out, the protection circuit will stop the batteries from being discharged. Re-charge the batteries and reset the protection circuit with the button on top.
+-	If the motor spins freely in the cam, the D shaped hole becomes rounded use glue when inserting the set screw. If the problem still occurs print the cam using a more rigid material such as Polycarbonate or a fiber reinforced material.
+
 
 
 # Body Assembly and Function:

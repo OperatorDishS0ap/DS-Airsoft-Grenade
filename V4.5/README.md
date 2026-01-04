@@ -154,17 +154,17 @@ Battery compartment dimensions are below in millimeters. You will have to explor
 1. To start for the primer version only, grind the end of the fuse screw (m4x40mm) to a bevel as shown in the image below. Do not sharpen the tip this will puncture the primer. A point around 3mm in diameter is ideal.  
 ![Beveled Bolt](Images/bolt.JPEG)
 
-3.	Press the bolt guide onto the M4x40mm bolt. This will likely take some force. A tool is included to help press the guide on. It is recommended to also use glue to ensure that it will not separate under prolonged use. Verify that the guide is also sitting relatively straight on the bolt. The fitment of the guide and bolt in the fuse is not critical to the reliability of the grenade like V3; however, it will perform best with a good fitment.  
+2.	Press the bolt guide onto the M4x40mm bolt. This will likely take some force. A tool is included to help press the guide on. It is recommended to also use glue to ensure that it will not separate under prolonged use. Verify that the guide is also sitting relatively straight on the bolt. The fitment of the guide and bolt in the fuse is not critical to the reliability of the grenade like V3; however, it will perform best with a good fitment.  
 ![bolt guide](Images/boltguide.png)
 ![bolt guide intersected](Images/boltguide_intersect.png)
 
-5.	Secure the main screw, primary, and secondary springs in the fuse with the spring retainer. For use with primers ensure that the bolt sticks out ~2mm past the spring retainer as seen in the photo below.  
+3.	Secure the main screw, primary, and secondary springs in the fuse with the spring retainer. For use with primers ensure that the bolt sticks out ~2mm past the spring retainer as seen in the photo below.  
 ![Add Springs](Images/spring.JPEG)
 
-7.	Insert four m3x25mm self-tapping screws for reinforcement.  
+4.	Insert four m3x25mm self-tapping screws for reinforcement.  
 ![Add m3 screws](Images/add_screw.JPEG)
 
-9.	The spoon can now be secured by the m3x30mm screw. The flexible TPU spoons will yield dramatically better results over normal pla+. If necessary, the width of the spoon can be increased or decreased in your slicer by modifying its z scale. The fuse performs best when the spoon moves freely without resistance. The tab on the inside face of the spoon can also be trimmed or sanded for increased sensitivity.  
+5.	The spoon can now be secured by the m3x30mm screw. The flexible TPU spoons will yield dramatically better results over normal pla+. If necessary, the width of the spoon can be increased or decreased in your slicer by modifying its z scale. The fuse performs best when the spoon moves freely without resistance. The tab on the inside face of the spoon can also be trimmed or sanded for increased sensitivity.  
 ![Spoon](Images/spoon.png)
 ![Intersected Spoon](Images/spoon_intersect.png)
 ![Spoon Tab](Images/spoon_tab.png)  
@@ -172,7 +172,7 @@ Trim or sand the Tab for increased sensitivity
 ![Spoon Sicer Adjustment](Images/spoon_z_adjust.png)  
 Bambu Studio Spoon Width Adjustment  
 
-11.	In order to prime the fuse, the m4 screw needs to be pushed up and towards the rear as shown in the image below. The spoon will then be lowered in order to hold the screw from dropping.  
+6.	In order to prime the fuse, the m4 screw needs to be pushed up and towards the rear as shown in the image below. The spoon will then be lowered in order to hold the screw from dropping.  
 ![Set the Fuse](Images/set.JPEG)
 
 The screw is not supposed to catch on the top and should free fall unless something is blocking it. There is no spring on the spoon, that is counter intuitive to the design. The spoon is blocking the screw from falling into the hole. The fuse will trigger when the spoon moves away from the bolt guide. This can be accomplished with a hard impact or simply moving the spoon. Again, adjusting the tab on the spoon by trimming or sanding adjusts the force required for the spoon to move out of the way. Be careful to not make it too sensitive otherwise the force used to throw is enough to trigger the fuse.  
@@ -182,6 +182,28 @@ Throw the device underhand. If thrown overhand, hold it in the position shown be
 
 
 # Timed Fuse Assembly:
+### It is recommended to watch the assembly video as well
+
+1. To start for the primer version only, grind the end of the fuse screw (m4x40mm) to a bevel as shown in the image below. Do not sharpen the tip this will puncture the primer. A point around 3mm in diameter is ideal.  
+![Beveled Bolt](Images/bolt.JPEG)
+
+2.	Press the bolt guide onto the M4x40mm bolt. This will likely take some force. A tool is included to help press the guide on. It is recommended to also use glue to ensure that it will not separate under prolonged use. Verify that the guide is also sitting relatively straight on the bolt. The fitment of the guide and bolt in the fuse is not critical to the reliability of the grenade like V3; however, it will perform best with a good fitment.  
+![bolt guide](Images/boltguide.png)
+![bolt guide intersected](Images/boltguide_intersect.png)
+
+3.	Secure the main screw, primary, and secondary springs in the fuse with the spring retainer. For use with primers ensure that the bolt sticks out ~2mm past the spring retainer as seen in the photo below.  
+![Add Springs](Images/spring.JPEG)
+
+4.	Trim the switch lever as shown below. The switch will not fit into the fuse body of the lever is not trimmed. Remove the built in support from the fuse body.
+![Trim the Switch Lever](Images/switch.JPEG)
+![Remove Support from the timer](Images/time_support_removal.png)
+
+5.	Solder the PCB as Imaged below. Trim the extra pin length after soldering. **GOING FORWARD DO NOT PRESS THE BUTTON UNTIL INSTRUCTED TO DO SO**  
+![Bottom PCB CAD](Images/bottom_pcb_cad.png)
+![Top PCB CAD](Images/top_pcb_cad.png)  
+![Bottom PCB](Images/bottom_pcb.JPEG)  
+![Top PCB](Images/top_pcb.JPEG)   
+Trim the Excess Pin Lenght from the Headers and Switch to avoid touching the cap
 
 ![Timer Fuse Function](Images/gif.gif)
 

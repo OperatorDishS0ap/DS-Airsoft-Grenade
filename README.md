@@ -5,12 +5,16 @@ THERE MAY BE INCONSISTENCIES BETWEEN YOUTUBE VIDEOS AND THE CURRENT DESIGN/FUNCT
 
 V4 [Video](https://youtu.be/80pCEygZt8I)
 
-V4 [Demo](https://youtube.com/shorts/NLlh_alYXCA?si=77kgigL3ZdaDLs44)
+[Ammo Comparison](https://youtube.com/shorts/NLlh_alYXCA?si=77kgigL3ZdaDLs44)
 
 Impact [Demo](https://youtube.com/shorts/6eM99irWegU?feature=share)
 
 Timed Version [Demo](https://youtube.com/shorts/Hy5njhvKSrs?si=KscytKjcjW3jRwIt)
 
 ![Demo](Images/DSDemo.gif)
+
+V3 [Video](https://youtu.be/1QZiijmwaFE?si=J8ztw9y8YyzhfrAc)
+
+For those still using V3, I would encourage you to use the [guide mod](https://cults3d.com/en/3d-model/various/guide-for-dishsoap-airsoft-grenade) created by teddebeezy.
 
 [![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)

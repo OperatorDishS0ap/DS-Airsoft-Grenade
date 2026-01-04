@@ -79,7 +79,7 @@ The tables below outline the printed parts necissary for each core component. Yo
 
 # Timed Fuse Assembly:
 
-![Timer Fuse Function](images/gif.gif)
+![Timer Fuse Function](Images/gif.gif)
 
 
 # Body Assembly and Function:

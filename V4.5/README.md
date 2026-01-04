@@ -244,11 +244,26 @@ Note the Bolt is all the way up and the cam has been advanced preventing it from
 -	The fuse will continuously spin until the switch is depressed with the pin.
 -	I measured over 1h 30min runtime. This is far more than I’ve ever needed and will allow you many uses given you retrieve it after throwing it in a reasonable time.
 -	In case the batteries run out, the protection circuit will stop the batteries from being discharged. Re-charge the batteries and reset the protection circuit with the button on top.
--	If the motor spins freely in the cam, the D shaped hole becomes rounded use glue when inserting the set screw. If the problem still occurs print the cam using a more rigid material such as Polycarbonate or a fiber reinforced material.
-
+-	If the motor spins freely in the cam, the D shaped hole becomes rounded, use glue when inserting the set screw. If the problem still occurs print the cam using a more rigid material such as Polycarbonate or a fiber reinforced material.  
 
 
 # Body Assembly and Function:
+For the Primer Bodies. The Primer will be loaded in the location outlined in the photo below. It can be pushed out after use from the bottom of the body. If the hole is not the right size, I suggest using x-y hole compensation in your slicer.  
+![Primer Body](Images/primer_body.png)  
+![Slicer Hole Compensation](Images/primer_body_xy_hole.png)  
+Bambu Studio X-Y Hole Compensation  
+
+For the 8-shot cap body, the 8-shot cap can then be placed over the retainer then placed in the body as seen below.  
+![8 Cap Body](Images/8cap_body.png)  
+
+For the Adult/Super Snap body, Remove the built in support.  
+![Remove Support for Snap Body](Images/snap_support_removal.png)  
+
+Insert the snaps as shown  
+![Insert Snaps](Images/snap_body_insert.png)  
+
+The bottom can then be screwed on to secure the snaps from falling out  
+![Snap Bottom](Images/snap_body_bottom.png)  
 
 
 # Additional Material Info:

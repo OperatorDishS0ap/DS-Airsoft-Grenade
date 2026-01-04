@@ -4,7 +4,7 @@ Assembly video can be found here:
 
 A video showing how to order the PCB can be found here: 
 
-For further questions and resources join the discord server: [Discord](https://discord.gg/FcNPHcn7kz)
+For further questions and resources join the [Discord](https://discord.gg/FcNPHcn7kz) server 
 
 These are strictly for training and airsoft purposes. I do not assume responsibility for your misuse or injury.
 

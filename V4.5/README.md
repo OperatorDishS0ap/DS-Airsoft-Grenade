@@ -7,3 +7,5 @@ For further questions and resources join the discord server:
 https://discord.gg/FcNPHcn7kz
 
 These are strictly for training and airsoft purposes. I do not assume responsibility for your misuse or injury.
+
+![](https://github.com/OperatorDishS0ap/DS-Airsoft-Grenade/blob/main/V4.5/images/gif.gif)

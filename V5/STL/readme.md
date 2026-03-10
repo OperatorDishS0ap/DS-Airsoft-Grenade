@@ -1,1 +1,1 @@
-Files are in labeled folders above. List of necessary parts can be found in the instructions
+Files are in labeled folders above. A list of necessary parts can be found [here](../README.md/#printed-parts)

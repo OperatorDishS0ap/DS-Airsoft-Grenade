@@ -22,42 +22,42 @@ The tables below outline the printed parts necissary for each core component. Yo
 ## Printed Parts for Impact Fuse:
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Fuse](ImpactFuse/FuseV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
-| [Bolt Guide](ImpactFuse/BoltGuideV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
-| [Spring Plate](ImpactFuse/SpringPlateV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
-| [Spoon](ImpactFuse/Spoon) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU72D <br> TPU 95A | No |
+| [Fuse](STL/ImpactFuse/FuseV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
+| [Bolt Guide](STL/ImpactFuse/BoltGuideV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
+| [Spring Plate](STL/ImpactFuse/SpringPlateV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
+| [Spoon](STL/ImpactFuse/Spoon) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU72D <br> TPU 95A | No |
 
 ## Printed Parts for Timed Fuse:
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Fuse](TimedFuse/PCBPinFuseV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
-| [Bolt Guide](ImpactFuse/BoltGuideV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
-| [Spring Plate](ImpactFuse/SpringPlateV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
-| [Cam](TimedFuse/CamV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | ABS (CF/GF) <br> CF/GF Nylon <br> PLA+ | No |
-| [Cap](TimedFuse/CapV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No 
+| [Fuse](STL/TimedFuse/PCBPinFuseV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
+| [Bolt Guide](STL/ImpactFuse/BoltGuideV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
+| [Spring Plate](STL/ImpactFuse/SpringPlateV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
+| [Cam](STL/TimedFuse/CamV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | ABS (CF/GF) <br> CF/GF Nylon <br> PLA+ | No |
+| [Cap](STL/TimedFuse/CapV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No 
 
 ## Printed Parts for Primer Body:
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Body](PrimerBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | No |
+| [Body](STL/PrimerBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | No |
 
 ## Printed Parts for Multi-Primer Body:
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Body](PrimerBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | Yes |
-| [Holder](PrimerBody/Holder_X4.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 100% Infill | Nylon <br> PLA+ | No |
+| [Body](STL/PrimerBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | Yes |
+| [Holder](STL/PrimerBody/Holder_X4.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 100% Infill | Nylon <br> PLA+ | No |
 
 ## Printed Parts for Snap Body
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Body](SnapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | Only for 55 Body |
-| [Base](SnapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> TPU 95A <br> Nylon | No |
+| [Body](STL/SnapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | Only for 55 Body |
+| [Base](STL/SnapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> TPU 95A <br> Nylon | No |
 
 ## Printed Parts for 8-Cap Body
 | Part | QTY | Slicer Settings | Material | Support |
 | --- | --- | --- | --- | --- |
-| [Body](CapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | No |
-| [Retainer](CapBody/CapRetainerV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 100% Infill | Nylon <br> PLA+ | No |
+| [Body](STL/CapBody) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon | No |
+| [Retainer](STL/CapBody/CapRetainerV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 100% Infill | Nylon <br> PLA+ | No |
 
 
 
@@ -107,7 +107,7 @@ Springs will lose their strength over time and will need to be replaced. Avoid l
 | Male JST XH2.54mm 3P Connector | 1 | [link](https://www.amazon.com/Antrader-Silicone-Battery-Extension-Connector/dp/B07TTR598D/ref=sr_1_9?sr=8-9) | [link](https://www.aliexpress.us/item/3256806041022852.html?spm=a2g0o.productlist.main.17.11282dc2dca5YJ&algo_pvid=6174357d-735d-4ebe-9be2-03931edd674a&algo_exp_id=6174357d-735d-4ebe-9be2-03931edd674a-16&pdp_ext_f=%7B%22order%22%3A%221381%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.15%212.78%21%21%213.15%212.78%21%402103122117674827657655348e1b59%2112000036377215915%21sea%21US%212397384802%21X%211%210%21n_tag%3A-29919%3Bd%3A76bd9575%3Bm03_new_user%3A-29895%3BpisId%3A5000000198118901&curPageLogUid=i3oA9edMKvcV&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006227337604%7C_p_origin_prod%3A) | This is for charging the 2S Li-Po in the fuse. I recommend purchasing a 2S Li-Po balance lead and crimping the JST PH2.0mm connector to the end. Otherwise, you can crimp the connectors on both ends. |
 | M2.5x3mm Set Screw | 1 | [link](https://www.amazon.com/100pcs-Stainless-Socket-Screws-Metric/dp/B01MTM26H0/ref=sr_1_9?sr=8-9) | [link](https://www.aliexpress.us/item/2255800895118752.html?spm=a2g0o.productlist.main.1.75a670adZHPdt9&algo_pvid=9dbe9f2e-2742-405c-be54-74bd010b5e87&algo_exp_id=9dbe9f2e-2742-405c-be54-74bd010b5e87-0&pdp_npi=4%40dis%21USD%211.11%211.11%21%21%211.11%211.11%21%402101f93317237795542268747ea2ed%2110000014240309951%21sea%21US%212397384802%21X&curPageLogUid=pwZFfx0FFiBr&utparam-url=scene%3Asearch%7Cquery_from%3A) | Timer Cam |
 | Limit Switch SPDT | 1 | [link]() | [link](https://www.aliexpress.us/item/3256805410237576.html?spm=a2g0o.order_list.order_list_main.59.48851802uVGHT5&gatewayAdapt=glo2usa) | Ensure you get a side mount switch <br> The metal switch lever will be removed |
-| PCB | 1 | | | PCB [Files]() are above<br>A [video]() showing how to order the board is linked above |
+| PCB | 1 | | | PCB [Files](PCB) are above<br>A [video]() showing how to order the board is linked above |
 | Female JST PH2.0mm 2P Vertical Header | 2 | [link](https://www.amazon.com/CQRobot-Pieces-Connector-Housing-Adapter/dp/B09DP9FZTX/ref=sr_1_6?s=industrial&sr=1-6) | [link](https://www.aliexpress.us/item/3256806894018733.html?spm=a2g0o.productlist.main.10.239d75a3cHkgrz&algo_pvid=b660cd1f-a817-4fb9-9dee-1c064876b326&algo_exp_id=b660cd1f-a817-4fb9-9dee-1c064876b326-9&pdp_ext_f=%7B%22order%22%3A%221513%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.65%211.52%21%21%211.65%211.52%21%402103212517674672627716652e4fa7%2112000039333381505%21sea%21US%212397384802%21X%211%210%21n_tag%3A-29919%3Bd%3A76bd9575%3Bm03_new_user%3A-29895%3BpisId%3A5000000198118901&curPageLogUid=A7DLh0z0RVBh&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007080333485%7C_p_origin_prod%3A) | Battery PCB Header |
 | Female JST PH2.0mm 3P Horizontal Header | 1 | [link](https://www.amazon.com/CQRobot-Pieces-Connector-Housing-Adapter/dp/B09YY18S91/ref=sr_1_6?sr=8-6) | [link](https://www.aliexpress.us/item/3256804853397341.html?spm=a2g0o.order_list.order_list_main.5.48851802uVGHT5&gatewayAdapt=glo2usa) | Battery PCB Charge Port Header |
 

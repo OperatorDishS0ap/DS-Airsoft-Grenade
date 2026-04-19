@@ -214,10 +214,9 @@ Left Battery
 9. Now Fasten the printed switch lever and cap using 4 m2.5X25mm screws.  
 ![Fuse no switch](Images/PCBinsert.JPEG)  
 ![Fuse switch](Images/printedswitch.JPEG)  
-![Fuse Cap](Images/Cap.JPEG)  
+![Fuse Cap](Images/cap.JPEG)  
 
 9.	Now press the button to reset the battery protection circuit. The motor will now turn continuously if there is nothing pressing onto the switch. Stop the motor by inserting a pin to press the switch. If the board does not power, ensure that your batteries are charged and they were installed in the correct order and polarity. Fasten the cap once you confirm the motor is turning. Stop the motor when the cam is located with the set screw facing out. Install the set screw. Using superglue on the set screw is encouraged.
-![Fuse Cap](Images/Cap.JPEG)  
 
 
 10.	Finally, to use the timed fuse stop the cam when the notch lines up with the arrow on the fuse body. Push the main bolt up and to the rear like you would the impact fuse. While holding it up and to the rear, advance the cam a small amount to catch or limit the bolt from falling. Now when the pin is pulled the cam will rotate and the bolt will eventually fall. The timing can easily be reduced by advancing the cam further when setting. Re-insert the pin to stop the mechanism upon retrieval.

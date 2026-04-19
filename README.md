@@ -15,7 +15,21 @@ These are strictly for training and airsoft purposes. I do not assume any respon
 
 All notable changes to this project will be documented below
 
-## [4.0.2] – 2025-05-28
+## [5.0] - 2026-04-19  
+
+###
+- Created GitHub repository that will operate as the primary project resource
+- All components have been redesigned for printability, reliability, and ease of use
+- Added Multi-Shot Primer Body
+- Changed from M5 SHCS Bolt to M4 FHCS and altered the guide to be bolted rather than press fit or glued
+- Added aditional spring clearance for the use of uxcell springs
+- Added aditional spring for increased spring strength
+- New PCB design that implements a limit switch, battery protection, and LED indicator
+- Time fuse is now activated with a pin
+- Text size increased for multi-color printing
+- Added constant force primer hole for better primer retention
+
+## [4.2] – 2025-05-28
 
 ### Added
 - New **timer design utilizing a custom PCB**
@@ -45,7 +59,7 @@ All notable changes to this project will be documented below
 
 ---
 
-## [4.0.1] – 2025-02-19
+## [4.1] – 2025-02-19
 
 ### Fixed
 - Corrected spelling on **8-cap** and **snap bodies**
@@ -55,7 +69,7 @@ All notable changes to this project will be documented below
 
 ---
 
-## [4.0.0] – 2025-02-18
+## [4.0] – 2025-02-18
 
 ### Fixed
 - Corrected BOM to list the proper **M2.5 × 3 mm set screw** for the timed fuse  

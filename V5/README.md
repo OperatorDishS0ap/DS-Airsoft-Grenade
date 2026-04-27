@@ -1,6 +1,6 @@
 # PLEASE READ THE INSTRUCTIONS BELOW THOROUGHLY AND WATCH THE VIDEO LINKED BELOW BEFORE ASKING QUESTIONS
 
-Assembly video can be found here: 
+Assembly video can be found here: [Assembly Video](https://youtu.be/WyIGIuh09i8)
 
 A video showing how to order the PCB can be found here: 
 

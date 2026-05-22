@@ -34,7 +34,8 @@ The tables below outline the printed parts necissary for each core component. Yo
 | [Bolt Guide](STL/ImpactFuse/BoltGuideV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
 | [Spring Plate](STL/ImpactFuse/SpringPlateV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | TPU 72D <br> Nylon | Yes |
 | [Cam](STL/TimedFuse/CamV5.STL) | 1 | ≤ 0.16mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> 100% Infill | ABS (CF/GF) <br> CF/GF Nylon <br> PLA+ | No |
-| [Cap](STL/TimedFuse/CapV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No 
+| [Cap](STL/TimedFuse/CapV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
+| [Switch Lever](STL/TimedFuse/SwitchLeverV5.STL) | 1 | ≤ 0.20mm layer height <br> Wall, top, and bottom thickness: ≥ 2 mm (5 walls for 0.4mm nozzle) <br> ≥ 35% Gyroid or Cubic Infill | TPU 72D <br> Nylon <br> PLA+ | No |
 
 ## Printed Parts for Primer Body:
 | Part | QTY | Slicer Settings | Material | Support |
